@@ -4,7 +4,7 @@ using namespace std;
 /**
  * @brief Given a sorted array of distict integers and a target value, return the index if the target is found.
  * If not, return the index where it would be if it were inserted in order.
- * 
+ * Question link: https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=binary-search-i
  * @param nums 
  * @param target 
  * @return int 
